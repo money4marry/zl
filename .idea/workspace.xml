@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25a38b32-a6f4-4563-8794-110a0e6e3620" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/models/menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/mainApp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/offcanvas.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/templates/home.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/templates/signin.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/.npmignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/RELEASING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/bundles/ng-table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/bundles/ng-table.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/bundles/ng-table.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/bundles/ng-table.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/bundles/ng-table.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/bundles/ng-table.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/bundles/ng-table.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/bundles/ng-table.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/filterRow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/filters/number.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/filters/select-multiple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/filters/select.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/filters/text.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/groupRow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/header.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTable.directive.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTable.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTable.directive.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableColumn.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableColumn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableColumn.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableColumnsBinding.directive.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableColumnsBinding.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableColumnsBinding.directive.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableController.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableController.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableDynamic.directive.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableDynamic.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableDynamic.directive.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableFilterConfig.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableFilterConfig.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableFilterConfig.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableFilterRow.directive.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableFilterRow.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableFilterRow.directive.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableFilterRowController.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableFilterRowController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableFilterRowController.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableGroupRow.directive.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableGroupRow.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableGroupRow.directive.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableGroupRowController.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableGroupRowController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableGroupRowController.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTablePagination.directive.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTablePagination.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTablePagination.directive.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableSelectFilterDs.directive.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableSelectFilterDs.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableSelectFilterDs.directive.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableSorterRow.directive.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableSorterRow.directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableSorterRow.directive.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableSorterRowController.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableSorterRowController.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/ngTableSorterRowController.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/pager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/public-interfaces.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/public-interfaces.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/public-interfaces.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/browser/sorterRow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/data/dataSettings.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/data/dataSettings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/data/dataSettings.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/data/getData.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/data/getData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/data/getData.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/data/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/data/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/data/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/data/interceptor.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/data/interceptor.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/data/interceptor.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/data/ngTableDefaultGetData.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/data/ngTableDefaultGetData.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/data/ngTableDefaultGetData.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/data/results.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/data/results.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/data/results.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/filtering/filterComparator.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/filtering/filterComparator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/filtering/filterComparator.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/filtering/filterFunc.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/filtering/filterFunc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/filtering/filterFunc.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/filtering/filterSettings.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/filtering/filterSettings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/filtering/filterSettings.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/filtering/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/filtering/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/filtering/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/grouping/getGroup.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/grouping/getGroup.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/grouping/getGroup.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/grouping/groupSettings.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/grouping/groupSettings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/grouping/groupSettings.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/grouping/groupingFunc.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/grouping/groupingFunc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/grouping/groupingFunc.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/grouping/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/grouping/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/grouping/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/grouping/ngTableDefaultGetGroups.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/grouping/ngTableDefaultGetGroups.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/grouping/ngTableDefaultGetGroups.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/grouping/publicExports.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/grouping/publicExports.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/grouping/publicExports.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/ngTableDefaults.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/ngTableDefaults.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/ngTableDefaults.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/ngTableEventsChannel.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/ngTableEventsChannel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/ngTableEventsChannel.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/ngTableParams.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/ngTableParams.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/ngTableParams.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/ngTableSettings.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/ngTableSettings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/ngTableSettings.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/paging/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/paging/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/paging/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/sorting/index.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/sorting/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/sorting/index.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/util.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/util.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/core/util.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/vendor/ng-table/src/styles/ng-table.scss" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="579">
+              <caret line="85" column="33" lean-forward="true" selection-start-line="85" selection-start-column="33" selection-end-line="85" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="student.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/models/student.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="882">
+              <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signin.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/templates/signin.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mainApp.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/javascripts/mainApp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/templates/home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="95" lean-forward="false" selection-start-line="7" selection-start-column="95" selection-end-line="7" selection-end-column="95" />
+              <folding>
+                <element signature="n#style#0;n#font#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#font#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-114">
+              <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.js" />
+        <option value="$PROJECT_DIR$/routes/routes.js" />
+        <option value="$PROJECT_DIR$/public/images/logo.svg" />
+        <option value="$PROJECT_DIR$/public/templates/signin" />
+        <option value="$PROJECT_DIR$/public/templates/signin.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/models/student.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/templates/home.html" />
+        <option value="$PROJECT_DIR$/public/javascripts/mainApp.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER">
+    <gruntfile path="$PROJECT_DIR$/Gruntfile.js" />
+  </component>
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-173" />
+    <option name="y" value="61" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="layouts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="routes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="templates" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="zl" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="models" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\workspace\zl\zl\public\vendor" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\zl\zl\public\stylesheets" />
+      <recent name="C:\workspace\zl\zl\models" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25a38b32-a6f4-4563-8794-110a0e6e3620" name="Default" comment="" />
+      <created>1488006906626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1488006906626</updated>
+      <workItem from="1488006908813" duration="797000" />
+      <workItem from="1488369972941" duration="503000" />
+      <workItem from="1488455394418" duration="4140000" />
+      <workItem from="1488503721387" duration="4581000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10021000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-173" y="61" width="1936" height="1056" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1780822" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32502708" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1422">
+          <caret line="79" column="56" lean-forward="false" selection-start-line="79" selection-start-column="56" selection-end-line="79" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/signin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="76" lean-forward="true" selection-start-line="9" selection-start-column="76" selection-end-line="9" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="31" lean-forward="false" selection-start-line="21" selection-start-column="31" selection-end-line="21" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/mainApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="50" column="40" lean-forward="false" selection-start-line="50" selection-start-column="40" selection-end-line="50" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/student.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="11" lean-forward="true" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/teacher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/student.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/teacher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/offcanvas.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="20" column="3" lean-forward="false" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/images/logo.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="566">
+          <caret line="81" column="6" lean-forward="false" selection-start-line="81" selection-start-column="6" selection-end-line="81" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/menu.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="32" lean-forward="false" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/teacher.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="32" lean-forward="false" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="20" column="24" lean-forward="false" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/routes.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/signin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="18" lean-forward="true" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-114">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/javascripts/mainApp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="7" lean-forward="true" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="95" lean-forward="false" selection-start-line="7" selection-start-column="95" selection-end-line="7" selection-end-column="95" />
+          <folding>
+            <element signature="n#style#0;n#font#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#font#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#2;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/models/student.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="49" column="0" lean-forward="true" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="85" column="33" lean-forward="true" selection-start-line="85" selection-start-column="33" selection-end-line="85" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
